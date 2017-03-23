@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
