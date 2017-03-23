@@ -12,20 +12,20 @@
         "source": "/Users/johnshelley/.android/build-cache/8823887a576d4192be420199b028b2a71411e074/output/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
-        "source": "/Users/johnshelley/.android/build-cache/8823887a576d4192be420199b028b2a71411e074/output/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
         "source": "/Users/johnshelley/.android/build-cache/8823887a576d4192be420199b028b2a71411e074/output/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "/Users/johnshelley/.android/build-cache/8823887a576d4192be420199b028b2a71411e074/output/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/johnshelley/.android/build-cache/8823887a576d4192be420199b028b2a71411e074/output/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
         "source": "/Users/johnshelley/.android/build-cache/8823887a576d4192be420199b028b2a71411e074/output/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/johnshelley/.android/build-cache/8823887a576d4192be420199b028b2a71411e074/output/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
@@ -60,12 +60,12 @@
         "source": "/Users/johnshelley/.android/build-cache/8823887a576d4192be420199b028b2a71411e074/output/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/Users/johnshelley/.android/build-cache/8823887a576d4192be420199b028b2a71411e074/output/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
         "source": "/Users/johnshelley/.android/build-cache/8823887a576d4192be420199b028b2a71411e074/output/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/johnshelley/.android/build-cache/8823887a576d4192be420199b028b2a71411e074/output/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
