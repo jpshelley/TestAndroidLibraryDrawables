@@ -1,4 +1,4 @@
-#Thu Mar 23 15:19:40 CDT 2017
+#Thu Mar 23 15:29:00 CDT 2017
 base.0=/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d73dff414abe1cf858fdecea73ebcf39428c2888
 renamed.1=classes.dex
 renamed.0=classes2.dex

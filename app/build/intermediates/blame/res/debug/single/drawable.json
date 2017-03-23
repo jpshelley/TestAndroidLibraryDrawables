@@ -24,12 +24,12 @@
         "source": "/Users/johnshelley/.android/build-cache/8823887a576d4192be420199b028b2a71411e074/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/johnshelley/.android/build-cache/8823887a576d4192be420199b028b2a71411e074/output/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
         "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
         "source": "/Users/johnshelley/.android/build-cache/8823887a576d4192be420199b028b2a71411e074/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/johnshelley/.android/build-cache/8823887a576d4192be420199b028b2a71411e074/output/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
         "merged": "/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
