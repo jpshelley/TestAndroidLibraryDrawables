@@ -31,3 +31,4 @@
     android:paddingLeft="?attr/listPreferredItemPaddingLeft"
     android:paddingRight="?attr/listPreferredItemPaddingRight"
     android:ellipsize="marquee" />
+<!-- From: file:/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/layout/select_dialog_item_material.xml -->

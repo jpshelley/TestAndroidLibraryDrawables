@@ -21,4 +21,4 @@
           app:alpha="?android:attr/disabledAlpha"
           android:color="?android:attr/textColorPrimary" />
     <item android:color="?android:attr/textColorPrimaryInverse" />
-</selector>
+</selector><!-- From: file:/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/color/abc_btn_colored_text_material.xml -->

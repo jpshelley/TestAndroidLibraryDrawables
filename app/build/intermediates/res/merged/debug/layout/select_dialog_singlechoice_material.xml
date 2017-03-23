@@ -31,3 +31,4 @@
                  android:drawableStart="?android:attr/listChoiceIndicatorSingle"
                  android:drawablePadding="20dp"
                  android:ellipsize="marquee" />
+<!-- From: file:/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/layout/select_dialog_singlechoice_material.xml -->

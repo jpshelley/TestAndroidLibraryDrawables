@@ -26,4 +26,4 @@
     android:layout_weight="1"
     android:src="@android:drawable/ic_menu_close_clear_cancel"
     android:gravity="center"
-    android:visibility="gone"/>
+    android:visibility="gone"/><!-- From: file:/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/layout-v11/notification_media_cancel_action.xml -->

@@ -2,94 +2,74 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/johnshelley/.android/build-cache/24588d0e1170585d273a1217bf8e7d1209ceae90/output/jars/classes.jar"
+        jar="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
         jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
-        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes_77c3fa92850123266b0c6cd2db089be41402487a.jar" />
+        revision="23.0.1"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes-8703c841d6a2c1181cc4e6b61fe57da60ea5eb2e.jar" />
     </item>
     <item
-        is-multidex="false"
         jar="/Users/johnshelley/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
         jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
+        revision="23.0.1"
         sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
-        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_1a47f9bc43c604e1b69c2376b6e013453444b234.jar" />
+        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0-1a47f9bc43c604e1b69c2376b6e013453444b234.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/johnshelley/.android/build-cache/8823887a576d4192be420199b028b2a71411e074/output/jars/classes.jar"
+        jar="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
         jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
-        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes_c0d591fcc0fcf47b93bc042c829afd72583b667a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/johnshelley/.android/build-cache/b5587e53f8428623af535d520cb928660419db09/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="518768f3200963fbfec652f498da2c9d39245234">
-        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes_ba05ea75e3d0c38a4609a92829c0e4105b11208d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/johnshelley/.android/build-cache/e4055368eaa1446a04bcd2cceb679a83de5550b6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
-        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes_aa57aa656b68752916d775cba0251f5d4678abda.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/johnshelley/.android/build-cache/5483ff76a584ce212437bc003307c27f5e657f13/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
-        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes_a00ed8cca80e1ac02a8ce856f8d8c405a6380200.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/johnshelley/.android/build-cache/22da56ddb386e024c47dc0738914ad9af5ead4f8/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
-        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes_8f8da463e8e94f2ef8051f4604307d41e7889e74.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/johnshelley/.android/build-cache/f0de0be1e5c97adbf99879d43d20793a672e7b24/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
+        revision="23.0.1"
         sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
-        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes_158d9852957a5ad94af28cb0bf8aeba64e335b5d.jar" />
+        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes-ac59a656b5a08edf4092d48cc85d99721cbe027f.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/johnshelley/.android/build-cache/a6fbb04fdcbb842cc3edc22f898c669922455c4c/output/jars/classes.jar"
+        jar="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
         jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
+        revision="23.0.1"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes_fdeed363f6a8d74b69cc949fc7d37990cf69fd69.jar" />
+        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes-5c384e18f8ab6646b43211db3cd14cb322ff6e6b.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/johnshelley/.android/build-cache/b082250f6f907b46102345428443c8a0880119bf/output/jars/classes.jar"
+        jar="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
         jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
+        revision="23.0.1"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes-690bb35602971eeffe879762eba6b6138a50cbeb.jar" />
+    </item>
+    <item
+        jar="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
         sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
-        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes_fe45dd5c46c179e2368b4a23ffa8d72bce34f145.jar" />
+        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes-31c910bf90cc3b9407962773ccf8d4d12208c8a3.jar" />
+    </item>
+    <item
+        jar="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes-6861716fe183cca3bafa4f0a43733bf2d47983ab.jar" />
+    </item>
+    <item
+        jar="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes-8cfc6e85eb6441010c1b0ebb8697d2a9893700bc.jar" />
+    </item>
+    <item
+        jar="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes-abea9711dfcd739f59c79cd1f10abd6b542b7f0f.jar" />
+    </item>
+    <item
+        jar="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/pre-dexed/debug/classes-b4670647be49559821299a8d38fed22148cc76d6.jar" />
     </item>
 
 </items>

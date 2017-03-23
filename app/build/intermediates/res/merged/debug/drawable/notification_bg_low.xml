@@ -20,4 +20,4 @@
 
     <item android:state_pressed="true"  android:drawable="@drawable/notification_bg_low_pressed" />
     <item android:state_pressed="false" android:drawable="@drawable/notification_bg_low_normal" />
-</selector>
+</selector><!-- From: file:/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/drawable/notification_bg_low.xml -->

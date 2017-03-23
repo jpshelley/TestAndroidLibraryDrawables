@@ -22,4 +22,4 @@
     android:layout_marginLeft="2dp"
     android:layout_marginRight="2dp"
     android:layout_weight="1"
-    android:gravity="center"/>
+    android:gravity="center"/><!-- From: file:/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/layout-v11/notification_media_action.xml -->

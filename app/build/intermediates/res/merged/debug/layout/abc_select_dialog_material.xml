@@ -35,4 +35,4 @@
       android:scrollbars="vertical"
       android:textAlignment="viewStart"
       app:paddingBottomNoButtons="@dimen/abc_dialog_list_padding_bottom_no_buttons"
-      app:paddingTopNoTitle="@dimen/abc_dialog_list_padding_top_no_title"/>
+      app:paddingTopNoTitle="@dimen/abc_dialog_list_padding_top_no_title"/><!-- From: file:/Users/johnshelley/Developer/Personal/Android/TestAndroidLibraryDrawables/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/layout/abc_select_dialog_material.xml -->
